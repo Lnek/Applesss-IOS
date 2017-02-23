@@ -1,17 +1,19 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3C6F92914DC600539B41847959CED54915F302B0",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F9C4936E2D24F5781131573F9CBA408529B6B72E",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "88EA2772244A30DC9C9F9C8CF4484193B457DACA" : 9223372036854775807,
     "3C6F92914DC600539B41847959CED54915F302B0" : 9223372036854775807,
+    "F9C4936E2D24F5781131573F9CBA408529B6B72E" : 9223372036854775807,
+    "88EA2772244A30DC9C9F9C8CF4484193B457DACA" : 9223372036854775807,
     "CAC6E1011EE7E5B3F791C48870F55187391185DB" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "CFBE088D-9DDA-498D-B923-50CBC4C30E67",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "88EA2772244A30DC9C9F9C8CF4484193B457DACA" : "Potatso\/Library\/ShadowPath\/ShadowPath\/shadowsocks-libev\/",
     "3C6F92914DC600539B41847959CED54915F302B0" : "Potatso\/",
+    "F9C4936E2D24F5781131573F9CBA408529B6B72E" : "Applesss-IOS\/",
+    "88EA2772244A30DC9C9F9C8CF4484193B457DACA" : "Potatso\/Library\/ShadowPath\/ShadowPath\/shadowsocks-libev\/",
     "CAC6E1011EE7E5B3F791C48870F55187391185DB" : "Potatso\/Library\/ShadowPath\/ShadowPath\/libmaxminddb\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Potatso",
@@ -32,6 +34,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:icodesign\/libmaxminddb.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CAC6E1011EE7E5B3F791C48870F55187391185DB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ilovebamboo\/Applesss-IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F9C4936E2D24F5781131573F9CBA408529B6B72E"
     }
   ]
 }

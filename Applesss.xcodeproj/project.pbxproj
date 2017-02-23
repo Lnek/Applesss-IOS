@@ -1057,18 +1057,18 @@
 		9B0CFA021C1C0B1A007BD7C6 = {
 			isa = PBXGroup;
 			children = (
-				9B0CFA0D1C1C0B1B007BD7C6 /* Potatso */,
-				9B0CFA221C1C0B1B007BD7C6 /* PotatsoTests */,
+				C8B2149E8757C44C469576D2 /* Frameworks */,
+				9BDA625C1CAE2576007F2581 /* PacketProcessor */,
 				9B8705FB1C1D788F00651424 /* PacketTunnel */,
-				9B8193B51CBCFEE700BE320D /* TodayWidget */,
+				054CE3BF954F7C0FD88A3E0B /* Pods */,
+				9B0CFA0D1C1C0B1B007BD7C6 /* Potatso */,
+				9BC6001E1CB2921C00E5EA61 /* PotatsoBase */,
 				9B9B15BE1C21595B000B6541 /* PotatsoLibrary */,
 				9B07D6B11CB7A6A900182C1B /* PotatsoLibraryTests */,
-				9BDA625C1CAE2576007F2581 /* PacketProcessor */,
 				9BC6FFEB1CB28B4B00E5EA61 /* PotatsoModel */,
-				9BC6001E1CB2921C00E5EA61 /* PotatsoBase */,
+				9B0CFA221C1C0B1B007BD7C6 /* PotatsoTests */,
 				9B0CFA0C1C1C0B1B007BD7C6 /* Products */,
-				C8B2149E8757C44C469576D2 /* Frameworks */,
-				054CE3BF954F7C0FD88A3E0B /* Pods */,
+				9B8193B51CBCFEE700BE320D /* TodayWidget */,
 			);
 			sourceTree = "<group>";
 		};
